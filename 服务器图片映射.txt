@@ -1,0 +1,4 @@
+进入下面这个文件路径
+cd /data/czy/Object_Detection_Project/data/fig
+执行下面这行代码
+python -m http.server 8000
